@@ -1,118 +1,139 @@
-# Stage 1 Report – Portfolio Project
+Stage 1 Report – Portfolio Project
+0. Team Formation
+Team Members Introduction
+Our team consists of two members:
 
-## 0. Team Formation
+Enzo: currently changing careers; brings resilience and organizational skills to the team.
 
-### Présentation des membres de l'équipe
-Notre équipe est composée de deux membres :
-- **Enzo** : en reconversion professionnelle, il apporte à l’équipe ses qualités de résilience et d’organisation.
-- **Erwan** : également en reconversion, il se distingue par sa créativité et ses centres d’intérêt variés.
+Erwan: also changing careers; stands out for his creativity and wide-ranging interests.
 
-Nous avons choisi de ne pas nommer de chef d’équipe. Les tâches sont réparties naturellement selon les forces de chacun : Enzo s’occupe de l’organisation et du suivi, Erwan propose des idées et des concepts créatifs.
+We decided not to appoint a formal team leader. Tasks are naturally divided according to each member’s strengths: Enzo handles organization and follow-up, Erwan generates ideas and creative concepts.
 
-### Outils de communication et collaboration
-- **Slack** : coordination des tâches.
-- **WhatsApp** : échanges rapides au quotidien.
-- **Réunions hebdomadaires** prévues pour faire le point, tester l’application et ajuster si besoin.
-- **Liste de tâches partagée** pour suivre l’avancement.
+Communication and Collaboration Tools
+Slack: task coordination
 
-### Règles d’équipe
-- Disponibilité continue pour une communication fluide.
-- Décisions prises par consensus.
-- Confiance mutuelle et répartition équitable.
-- Philosophie : “l’union fait la force”.
+WhatsApp: quick day-to-day exchanges
 
----
+Weekly meetings scheduled to review progress, test the app, and make adjustments as needed
 
-## 1. Research and Brainstorming
+Shared to-do list to track progress
 
-### Recherche individuelle et collective
-- Observation de problèmes UX actuels, sans problématique majeure identifiée.
-- Références aux **normes UX reconnues** pour garantir un bon niveau de qualité.
-- Exploration de solutions innovantes, partiellement confidentielles.
+Team Rules
+Always available to keep communication fluid
 
-### Techniques utilisées
-- **Mind Mapping** autour de la simplicité et de l’ergonomie.
-- Fonctionnalités envisagées : intégration d’IA, capture d’écran, visualisation de graphiques.
-- **SCAMPER** :
-  - *Combine* : toutes les fonctions dans une seule appli.
-  - *Adapt* : centralisation des outils existants.
-  - *Modify/Eliminate/Reverse* : à explorer pendant les tests.
-- **“How Might We”** questions :
-  - Comment simplifier l’audit UX ?
-  - Comment impliquer l’utilisateur final ?
-  - Comment automatiser tout ou partie du processus d’audit ?
+Decisions made by consensus
 
----
+Mutual trust and fair distribution of work
 
-## 2. Idea Evaluation
+Philosophy: “unity is strength”
 
-### Critères d’évaluation
-- Faisabilité technique
-- Potentiel d’impact pour les utilisateurs
-- Innovation
-- Alignement avec nos compétences actuelles
-- Temps et ressources disponibles
+1. Research and Brainstorming
+Individual and Group Research
+Observed current UX pain points, without identifying any single major issue
 
-### Idées explorées et rejetées
-1. **Développement d’une IA d’analyse UX/UI propriétaire**
-   ❌ Trop complexe, non faisable dans les délais.
-2. **Recherche automatisée de nouveaux critères UX**
-   ❌ Idée prometteuse mais instable et en phase exploratoire.
+Referred to established UX standards to ensure quality
 
-Ces idées ont été rejetées en raison du manque de temps, de moyens techniques, ou de leur niveau de complexité.
+Explored innovative (and partially confidential) solutions
 
----
+Techniques Used
+Mind Mapping around simplicity and ergonomics
 
-## 3. Decision and Refinement
+Features considered: AI integration, screenshot capture, graph visualization
 
-### Nom du MVP : Prometa
+SCAMPER:
 
-### Concept retenu
-**Prometa** est une plateforme d’audit UX automatisé s’appuyant sur l’IA (ChatGPT) pour analyser des sites web selon des critères définis, avec des rapports clairs à destination des clients finaux.
+Combine: bring all functions into one app
 
-### Problème résolu
-Les audits UX manuels sont chronophages et coûteux. Prometa permet d’automatiser ce processus tout en maintenant un bon niveau de qualité.
+Adapt: centralize existing tools
 
-### Public cible
-- Agences web
-- Freelances
-- Toute personne ou structure ayant un site web à optimiser
+Modify/Eliminate/Reverse: to be explored during testing
 
-### Fonctionnalités du MVP
-- Lancement automatique d’un audit
-- Analyse via l’API ChatGPT
-- Génération de rapport visuel interactif
-- Interface client avec conseils d’amélioration
-- Comparaison avant/après
-- Historique des audits
-- Tableau de bord administrateur
+“How Might We” questions:
 
-### Avantages du projet
-- Gain de temps considérable
-- Expertise UX rendue accessible et compréhensible
-- Automatisation simple et fiable pour des prestations de qualité
+How might we simplify the UX audit?
 
-### Défis techniques ou organisationnels
-- Limites techniques de l’IA sur certains contextes ou designs
-- Pédagogie nécessaire pour expliquer les résultats au client final
+How might we involve end users?
 
----
+How might we automate all or part of the audit process?
 
-## 4. Idea Development Documentation
+2. Idea Evaluation
+Evaluation Criteria
+Technical feasibility
 
-### Synthèse du projet
-**Prometa** est une application d’audit UX automatisé destinée aux professionnels du web. Elle permet de lancer des audits via une IA, de visualiser les résultats de manière claire, et de guider les utilisateurs dans l’amélioration de leur interface. Ce projet cherche à rendre l’audit UX plus rapide, compréhensible, et immédiatement exploitable.
+Potential user impact
 
-### Historique de la décision
-La sélection de Prometa s’est faite par consensus, après discussion et classement des idées selon les critères de faisabilité, impact et adéquation avec les compétences de l’équipe.
+Level of innovation
 
-### Documentation incluse
-- Idées explorées et causes de rejet
-- MVP détaillé avec description, cibles, fonctionnalités
-- Raisonnement ayant mené au choix final
-- Méthodes de collaboration et outils utilisés
+Alignment with our current skills
 
----
+Available time and resources
 
-## 🔗 Liens utiles
-(*À compléter selon votre dépôt Git, maquettes, ou livrables en ligne*)
+Ideas Explored and Rejected
+Building a proprietary UX/UI analysis AI
+❌ Too complex; not doable within our timeframe
+
+Automated discovery of new UX criteria
+❌ Promising but unstable and still in exploratory phase
+
+These ideas were discarded due to lack of time, technical constraints, or excessive complexity.
+
+3. Decision and Refinement
+MVP Name: Prometa
+Chosen Concept
+Prometa is an automated UX-audit platform powered by AI (ChatGPT) to analyze websites against defined criteria, producing clear, client-ready reports.
+
+Problem Addressed
+Manual UX audits are time-consuming and expensive. Prometa automates this process while maintaining a high quality standard.
+
+Target Audience
+Web agencies
+
+Freelancers
+
+Anyone or any organization looking to optimize their website
+
+MVP Features
+Automatic audit launch
+
+Analysis via the ChatGPT API
+
+Interactive visual report generation
+
+Client interface with improvement recommendations
+
+Before-and-after comparison
+
+Audit history
+
+Admin dashboard
+
+Project Benefits
+Significant time savings
+
+UX expertise made accessible and easy to understand
+
+Simple, reliable automation for high-quality service
+
+Technical or Organizational Challenges
+AI limitations on certain contexts or designs
+
+Need for clear explanations to help clients understand results
+
+4. Idea Development Documentation
+Project Summary
+Prometa is an automated UX-audit application for web professionals. It lets users launch audits via AI, visualize results clearly, and guides them to improve their interfaces. The goal is to make UX audits faster, easier to understand, and immediately actionable.
+
+Decision History
+Prometa was selected by consensus after discussing and ranking ideas according to feasibility, impact, and alignment with our skills.
+
+Included Documentation
+Explored ideas and reasons for rejection
+
+Detailed MVP description (objectives, targets, features)
+
+Rationale behind the final choice
+
+Collaboration methods and tools used
+
+🔗 Useful Links
+(To be added: Git repository, mockups, or any online deliverables)
